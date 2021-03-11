@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "https://SaraVieira.github.io/csb-stm4w/static/css/main.16122306.chunk.css",
-    "main.js": "https://SaraVieira.github.io/csb-stm4w/static/js/main.d62a8618.chunk.js",
-    "main.js.map": "https://SaraVieira.github.io/csb-stm4w/static/js/main.d62a8618.chunk.js.map",
+    "main.js": "https://SaraVieira.github.io/csb-stm4w/static/js/main.e9c00fea.chunk.js",
+    "main.js.map": "https://SaraVieira.github.io/csb-stm4w/static/js/main.e9c00fea.chunk.js.map",
     "runtime-main.js": "https://SaraVieira.github.io/csb-stm4w/static/js/runtime-main.a1816761.js",
     "runtime-main.js.map": "https://SaraVieira.github.io/csb-stm4w/static/js/runtime-main.a1816761.js.map",
-    "static/js/2.c05c6f85.chunk.js": "https://SaraVieira.github.io/csb-stm4w/static/js/2.c05c6f85.chunk.js",
-    "static/js/2.c05c6f85.chunk.js.map": "https://SaraVieira.github.io/csb-stm4w/static/js/2.c05c6f85.chunk.js.map",
+    "static/js/2.d54fbbf9.chunk.js": "https://SaraVieira.github.io/csb-stm4w/static/js/2.d54fbbf9.chunk.js",
+    "static/js/2.d54fbbf9.chunk.js.map": "https://SaraVieira.github.io/csb-stm4w/static/js/2.d54fbbf9.chunk.js.map",
     "index.html": "https://SaraVieira.github.io/csb-stm4w/index.html",
-    "precache-manifest.5c8debd0f86ea40dd718d788910b71e4.js": "https://SaraVieira.github.io/csb-stm4w/precache-manifest.5c8debd0f86ea40dd718d788910b71e4.js",
+    "precache-manifest.7b1a7df91e1135e3702ba85ca0e2ef2c.js": "https://SaraVieira.github.io/csb-stm4w/precache-manifest.7b1a7df91e1135e3702ba85ca0e2ef2c.js",
     "service-worker.js": "https://SaraVieira.github.io/csb-stm4w/service-worker.js",
     "static/css/main.16122306.chunk.css.map": "https://SaraVieira.github.io/csb-stm4w/static/css/main.16122306.chunk.css.map",
-    "static/js/2.c05c6f85.chunk.js.LICENSE.txt": "https://SaraVieira.github.io/csb-stm4w/static/js/2.c05c6f85.chunk.js.LICENSE.txt"
+    "static/js/2.d54fbbf9.chunk.js.LICENSE.txt": "https://SaraVieira.github.io/csb-stm4w/static/js/2.d54fbbf9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a1816761.js",
-    "static/js/2.c05c6f85.chunk.js",
+    "static/js/2.d54fbbf9.chunk.js",
     "static/css/main.16122306.chunk.css",
-    "static/js/main.d62a8618.chunk.js"
+    "static/js/main.e9c00fea.chunk.js"
   ]
 }
